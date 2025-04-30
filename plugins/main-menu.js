@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
 ║ 📍 𝘝𝘦𝘯𝘵𝘢 𝘥𝘦 𝘱𝘭𝘢𝘵𝘢𝘧𝘰𝘳𝘮𝘢𝘴, 𝘣𝘰𝘵𝘴 𝘺 𝘮𝘢𝘴 
 ║      𝘢𝘭 +52 56 4880 4810. 📍
 ║
-║ Venta de Bots Mensuales, Permanentes y ║Personalizados :      https://chat.whatsapp.com/HNeUqLXQSXoLkb5qDHsP46
+║ Venta de Bots Mensuales, Permanentes y Personalizados :      https://chat.whatsapp.com/HNeUqLXQSXoLkb5qDHsP46
 
 Venta de Plataformas a Precios Super Económicos:
 https://chat.whatsapp.com/LHz96eIpDLUIaGZZzDe6ct
