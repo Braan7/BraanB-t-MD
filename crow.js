@@ -311,7 +311,7 @@ console.log(chalk.bold.greenBright(`🌠 Ai Braan conectado correctamente.`))
 
 await connectSubBots();
 } catch (error) {
-console.error(chalk.bold.cyanBright(`🥀 Error al iniciar BarbozaBot-Ai: `, error))
+console.error(chalk.bold.cyanBright(`🥀 Error al iniciar BraanBot-MD: `, error))
 }
 })();
 
@@ -464,7 +464,7 @@ console.log(chalk.bold.cyanBright(`\n╭» ⚪ CrowJadiBot ⚪\n│→ ARCHIVOS 
 console.log(chalk.bold.red(`\n╭» 🔴 CrowJadiBot 🔴\n│→ OCURRIÓ UN ERROR\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️\n` + err))
 }}
 function purgeOldFiles() {
-const directories = ['./CrowSession/', './BarbozaJadiBot/']
+const directories = ['./CrowSession/', './BraanJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
