@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
             throw `❗ 𝐈𝐍𝐅𝐎 ❗ 𝚈𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚂𝚃𝙴 𝚃𝚄 𝙲𝙾𝙵𝚁𝙴\n𝚅𝚄𝙴𝙻𝚅𝙴 𝙴𝙽 *${remainingTime}* 𝙿𝙰𝚁𝙰 𝚅𝙾𝙻𝚅𝙴𝚁 𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚁`;
         }
 
-        const img = 'https://qu.ax/vBjJa.jpg';
+        const img = 'https://qu.ax/OgXMA.jpg';
         const texto = `
         🤖 *Guía básica de comandos:*
 
